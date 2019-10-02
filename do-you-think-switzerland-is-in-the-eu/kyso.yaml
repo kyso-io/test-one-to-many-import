@@ -1,1 +1,7 @@
-main: notebook.ipynb
+title: "Title for EU SWISS thing"
+description: "Which countries produce unicorns as a function of their population"
+main: SWISS_EU.ipynb
+preview: "images/preview.png"
+tags:
+    - eu
+    - swiss

@@ -1,8 +1,8 @@
 title: "Billion dollar startups per capita"
 description: "Which countries produce unicorns as a function of their population"
-main: notebook.ipynb
+main: Unicorns.ipynb
 preview: "images/preview.png"
-tags: 
+tags:
     - vc
     - unicorns
     - study
