@@ -1,5 +1,5 @@
-title: "Title for EU flag study"
-description: "Which countries produce unicorns as a function of their population"
+title: "Do you identify with the EU flag"
+description: "Poll for how many citizens identify with the EU flag alonside their national flag"
 main: EU_FLAG.ipynb
 preview: "images/preview.png"
 tags:

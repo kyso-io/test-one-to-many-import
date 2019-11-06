@@ -1,5 +1,5 @@
-title: "Title for EU SWISS thing"
-description: "Which countries produce unicorns as a function of their population"
+title: "Eurostat for how many people think Switzerland is in the EU"
+description: "Much more than you expect, including many Swiss!"
 main: SWISS_EU.ipynb
 preview: "images/preview.png"
 tags:
