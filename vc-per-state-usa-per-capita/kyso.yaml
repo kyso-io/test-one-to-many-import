@@ -1,7 +1,7 @@
 title: "VC dollars per capita"
 description: "Which states recieve the most VC investments per capita"
 main: startup-stuff.ipynb
-preview: "images/preview.png"
+preview: "images/vc.png"
 tags:
     - usd
     - vc
